@@ -1,7 +1,7 @@
 #Leetcode 15
 #3 Sum
 #Python 3
-# Time Complexity: O(n^2)
+#Time Complexity: O(n^2)
 #
 #
 #Set 3 pointers to iterate through the list
