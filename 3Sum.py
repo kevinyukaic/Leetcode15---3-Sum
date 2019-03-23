@@ -1,14 +1,14 @@
-#Leetcode 15
-#3 Sum
-#Python 3
-#Time Complexity: O(n^2)
+# Leetcode 15
+# 3 Sum
+# Python 3
+# Time Complexity: O(n^2)
 #
 #
-#Set 3 pointers to iterate through the list
+# Set 3 pointers to iterate through the list
 #
 # 
-# __p_i____ p_left______________________________________p_right_
-#|________|________|___________________________________|________|
+#  __p_i____ p_left______________________________________p_right_
+# |________|________|___________________________________|________|
 # 
 #
 # Check the sum of 3 numbers, 
